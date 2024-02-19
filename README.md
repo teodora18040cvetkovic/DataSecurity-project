@@ -1,9 +1,9 @@
-# data security project
+# Data security project
 Windows Forms application for data encryption.
 <br>
 ## Algorithms
-** One Time Pad algorithm **
+**One Time Pad algorithm**
 <br>
-** Four-square cipher algorithm ** 
+**Four-square cipher algorithm** 
 <br>
-** XXTEA **
+**XXTEA**
